@@ -1,3 +1,6 @@
+This archetype is presently unmaintained.  It is not a high priority for the
+dev team at the moment, though pull requests would be gladly welcomed.
+
 # Scalatra Maven Prototype
 
 scalatra-maven-prototype is a port of [scalatra-sbt-prototype](https://github.com/scalatra/scalatra-sbt-prototype) as an Apache Maven project.
